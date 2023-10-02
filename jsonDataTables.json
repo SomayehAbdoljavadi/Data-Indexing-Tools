@@ -1,0 +1,78 @@
+[{"id":0,
+  "DBName":"DBName",
+  "idleTimeoutMillis": 1,
+  "connectionTimeoutMillis": 20000000,
+  "host": "HostIP like 122.0.0.1",
+  "Port": "Port like 5432",
+  "user": "userNam",
+  "password": "password",
+  "TableName": "TableName",
+  "SchemaName": "SchemaName",
+  "TableCount": "TableCount",
+  "TableLimit": "QueryLimit",
+
+  "MethodeInvertIndex":"invert_index_id",
+  "DestinationDB":"DestinationDB",
+  "DestinationTableName":"DestinationTableName"
+ 
+},
+{ "id":1,
+  "DBName":"DBName",
+  "idleTimeoutMillis": 1,
+  "connectionTimeoutMillis": 20000000,
+  "host": "HostIP like 122.0.0.1",
+  "Port": "Port like 5432",
+  "user": "userNam",
+  "password": "password",
+  "TableName": "TableName",
+  "SchemaName": "SchemaName",
+  "TableCount": "TableCount",
+  "TableLimit": "QueryLimit",
+
+  "MethodeInvertIndex":"invert_index_id",
+  "DestinationDB":"DestinationDB",
+  "DestinationTableName":"DestinationTableName"
+   
+},
+ 
+{ "id":2,
+  "DBName":"DBName",
+  "idleTimeoutMillis": 1,
+  "connectionTimeoutMillis": 20000000,
+  "host": "HostIP like 122.0.0.1",
+  "Port": "Port like 5432",
+  "user": "userNam",
+  "password": "password",
+  "TableName": "TableName",
+  "SchemaName": "SchemaName",
+  "TableCount": "TableCount",
+  "TableLimit": "QueryLimit",
+
+  "MethodeInvertIndex":"invert_index_id_keys",
+    "DestinationDB":"DestinationDB",
+    "DestinationTableName":"DestinationTableName"
+   
+},
+{ "id":3,
+  "DBName":"DBName",
+  "idleTimeoutMillis": 1,
+  "connectionTimeoutMillis": 20000000,
+  "host": "HostIP like 122.0.0.1",
+  "Port": "Port like 5432",
+  "user": "userNam",
+  "password": "password",
+  "TableName": "TableName",
+  "SchemaName": "SchemaName",
+  "TableCount": "TableCount",
+  "TableLimit": "QueryLimit",
+
+  "MethodeInvertIndex":"invert_index_id_keys",
+  "DestinationDB":"DestinationDB",
+  "DestinationTableName":"DestinationTableName"
+   
+}]
+
+  
+  
+   
+  
